@@ -1,0 +1,36 @@
+line 30
+ background-color: black;
+ background-color: white;
+
+
+
+line 38
+background-color: #ff6600;
+background-color: #00BFFF
+
+
+line-52
+ul.topnav li a:hover:not(.active) {background-color: #3333ff;}
+ul.topnav li a:hover:not(.active) {background-color: grey;}
+
+line-54
+ul.topnav li a.active {background-color: #333;}
+ul.topnav li a.active {background-color: #00BFFF;}
+
+LINE-76
+
+CHANGING TITLE 
+<li><a href="index.php">Home</a></li>
+<li><a href="index.php">Library</a></li>
+
+LINE-77
+
+<li><a href="user data.php">User Data</a></li>
+
+<li><a href="user data.php">STUDENT RECORDS</a></li>
+
+line-94
+<td  height="40" align="center"  bgcolor="#0066cc"><font  color="#FFFFFF">
+<td  height="40" align="center"  bgcolor="#00BFFF"><font  color="#FFFFFF">
+
+#00BFFF

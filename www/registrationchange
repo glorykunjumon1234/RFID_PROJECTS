@@ -1,0 +1,57 @@
+background-color: rgb(155, 205, 232);
+LINE 58-  {background-color: #3333ff;} TO {background-color: #B0C4DE;}
+LINE 78  <li><a href="user data.php">User Data</a></li>
+        <li><a href="user data.php">STUDENT RECORDS</a></li>
+line 77:- 
+    prev-<li><a href="index.php">home</a></li>
+   update- <li><a href="index.php">Library</a></li>
+
+line 80:-
+prev-<li><a href="read tag.php">RFID Tag</a></li>
+updaye-  <li><a href="read tag.php">Read RFID Tag</a></li>
+
+line 60:-
+
+prev-   ul.topnav li a.active {background-color: #333;}
+update-     ul.topnav li a.active {background-color: #00BFFF;}
+
+
+LINE 44:-
+    {background-color: #ff6600;}
+
+    {background-color: #00BFFF;}
+
+    LINE 64-67
+ 
+ 
+    LINE-32
+
+ PREV:- body {
+    background-color: black;
+    }
+    UDATE :-
+    body {
+        background-color: white;
+LINE- 75
+
+        PREV -<h2 align="center"><font color="white">UNION CHRISTIAN COLLEGE - ALUVA</font></h2>
+        UPDATE-<h2 align="center"><font color="black">UNION CHRISTIAN COLLEGE - ALUVA</font></h2>
+line -87
+    prev -<h3 align="center"><font color="white">Registration Form</font></h3>
+	update-  <h3 align="center"><font color="black">Registration Form</font></h3>
+
+LINE: 92;  
+
+        PREV:<label class="control-label"><font color="white">ID</label>
+        UPDATE: <label class="control-label"><font color="black">ID</label>
+
+LINE : 52;
+        PREV-color: white;
+        UPDATE- color: black;
+line- 85
+
+        <div class="center" style="margin: 0 auto; width:495px; border-style: solid; border-color: #f2f2f2;"></div>
+
+	<div class="center" style="margin: 0 auto; width:495px; border-style: solid; border-color: #f2f2f2;"></div>			
+
+

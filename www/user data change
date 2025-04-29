@@ -1,0 +1,27 @@
+LINE 22
+         PREV-background-color: black;
+         UPDATE-background-color: WHITE;
+LINE 29
+        PREV-background-color: #ff6600;
+         UPDATE-background-color: #00BFFF;
+
+
+LINE-68
+PREV: <h2><font color="white">NodeMCU V3 ESP8266 / ESP12E with MYSQL Database</font></h2>
+UPDATE:<h2><font color="BLACK">UNION CHRISTIAN COLLEGE</font></h2>
+
+LINE -78
+ PREV:<h3><font color="white">User Data Table</font></h3>
+ UPDATE:  <h3><font color="black">STUDENT RECORDS</font></h3>
+
+ LINE 43
+ PREVul.topnav li a:hover:not(.active) {background-color: #3333ff;}
+ ul.topnav li a:hover:not(.active) {background-color: GREY;}
+				
+ LINE-45
+ PREV- ul.topnav li a.active {background-color: #333;}
+ UPDATE-ul.topnav li a.active {background-color: #00BFFF;}
+ LINE 83
+
+ <tr bgcolor="#0066cc" color="#FFFFFF">
+ <tr bgcolor="#00BFFF" color="#FFFFFF">
